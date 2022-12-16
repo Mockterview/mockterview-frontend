@@ -9,6 +9,19 @@ Mockterview는 CTO/Top-tier 개발자들이 검수한 문제로 기술 인터뷰
 
 * * *
 
+## ⭐️ Core Features
+| **랜딩 페이지** |
+|:--------------:|
+|<img src="https://user-images.githubusercontent.com/77824583/208049796-8081cae5-029b-45f6-8cda-5b9d529928f2.gif" width="980" />|
+
+|**로그인/회원가입**|**문제집**|
+|:---:|:---:|
+|![로그인/회원가입](https://user-images.githubusercontent.com/77824583/208049734-186b6238-034c-49b2-a92f-f86fdc48cd80.gif)|![문제집](https://user-images.githubusercontent.com/77824583/208053793-d1a1df5e-89e8-4b2e-ba64-b105a27e102e.gif)|
+|**모의면접**|**모의면접 결과지**|
+|![질문 담기](https://user-images.githubusercontent.com/77824583/208049793-03471455-dbd8-4078-8811-a1f867e2a9ed.gif)|![모의면접 결과지](https://user-images.githubusercontent.com/77824583/208057907-6ca0742b-f765-468f-aacb-f395fdc2a3f8.gif)|
+
+* * *
+
 ## 📣 Project
 ### 📆 Project Timeline
 - 총 기간: 2022/11/21 ~ 2022/12/23
@@ -57,4 +70,4 @@ Mockterview는 CTO/Top-tier 개발자들이 검수한 문제로 기술 인터뷰
 * * *
 
 ## 🔥 Challenges & Trouble Shooting
-*todo: FE/BE wiki link 넣기
+- [Wiki 바로가기](/wikilink)
