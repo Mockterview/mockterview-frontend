@@ -10,6 +10,7 @@ Mockterview는 CTO/Top-Tier 개발자들이 검수한 문제로 기술 인터뷰
 * * *
 
 ## ⭐️ Core Features
+
 | **랜딩 페이지** |
 |:--------------:|
 |<img src="https://user-images.githubusercontent.com/77824583/208049796-8081cae5-029b-45f6-8cda-5b9d529928f2.gif" width="980" />|
