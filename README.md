@@ -73,4 +73,5 @@ Mockterview는 CTO/Top-Tier 개발자들이 검수한 문제로 기술 인터뷰
 * * *
 
 ## 🔥 Challenges & Trouble Shooting
-- [Wiki 바로가기](https://github.com/Mockterview/.github/wiki)
+- [Wiki 바로가기]
+
