@@ -4,7 +4,7 @@
 <a href="https://www.mockterview.xyz">💻 Mockterview</a>
 =============
 ## 🙌 Introduce Mockterview
-Mockterview는 CTO/Top-tier 개발자들이 검수한 문제로 기술 인터뷰를 연습할 수 있는 서비스입니다.<br>
+Mockterview는 CTO/Top-Tier 개발자들이 검수한 문제로 기술 인터뷰를 연습할 수 있는 서비스입니다.<br>
 <br><img src="https://i.postimg.cc/52wjvXBF/2022-12-16-5-17-16.png)](https://postimg.cc/Jsz1C4d1" width="1000px" height="600px">
 
 * * *
