@@ -20,6 +20,8 @@ Mockterview는 CTO/Top-Tier 개발자들이 검수한 문제로 기술 인터뷰
 |![로그인/회원가입](https://user-images.githubusercontent.com/77824583/208049734-186b6238-034c-49b2-a92f-f86fdc48cd80.gif)|![문제집](https://user-images.githubusercontent.com/77824583/208053793-d1a1df5e-89e8-4b2e-ba64-b105a27e102e.gif)|
 |**모의면접**|**모의면접 결과지**|
 |![질문 담기](https://user-images.githubusercontent.com/77824583/208049793-03471455-dbd8-4078-8811-a1f867e2a9ed.gif)|![모의면접 결과지](https://user-images.githubusercontent.com/77824583/208057907-6ca0742b-f765-468f-aacb-f395fdc2a3f8.gif)|
+### 전체기능
+- [전체 기능](https://github.com/Mockterview/.github/wiki/%EC%A0%84%EC%B2%B4-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C) 
 
 * * *
 
