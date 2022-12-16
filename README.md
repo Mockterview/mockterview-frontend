@@ -1,4 +1,4 @@
-[![read-me.png](https://i.postimg.cc/d1WYrYNC/read-me.png)](https://postimg.cc/0MJF1Ls5)
+<img src="https://i.postimg.cc/d1WYrYNC/read-me.png" width="1000" />
 <br>
 
 <a href="https://www.mockterview.xyz">💻 Mockterview</a>
