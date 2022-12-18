@@ -1,0 +1,21 @@
+import Image from 'next/image';
+
+import * as S from './MainPagesFooterOrganism.style';
+import footer_logo from '/public/images/Landing/footer/footer_logo.svg';
+
+const MainPagesOrganisms = () => {
+  return (
+    <>
+      <S.Background>
+        <S.Wrapper>
+          <S.Logo>
+            <Image src={footer_logo} alt="footer_logo" />
+          </S.Logo>
+          <S.Desc>Copyright @2022 Mockterview. All rights reserved.</S.Desc>
+        </S.Wrapper>
+      </S.Background>
+    </>
+  );
+};
+
+export default MainPagesOrganisms;

@@ -1,0 +1,44 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    // 컴파일 과정에 사용될 라이브러리 파일 설정
+    "allowJs": true,
+    //JavaScript 파일 컴파일 허용
+    "skipLibCheck": true,
+    // 선언 파일 검사 생략
+    "strict": false,
+    // 엄격한 타입 검사 활성화
+    "forceConsistentCasingInFileNames": true,
+    // 동일한 파일에 대한 일관되지 않은 케이스 참조를 허용하지 않음
+    "noEmit": true,
+    // 컴파일된 파일을 생성하지 않음
+    "incremental": true,
+    // 증분 컴파일 활성화
+    "esModuleInterop": true,
+    // ES 모듈 간의 상호 운용성 활성화
+    "module": "esnext",
+    // 모듈 시스템을 ESNext로 설정
+    "moduleResolution": "node",
+    // 모듈 해석 방식을 Node.js 방식으로 설정
+    "resolveJsonModule": true,
+    // JSON 모듈을 가져올 수 있도록 설정
+    "isolatedModules": true,
+    // 모듈을 분리하여 컴파일
+    "jsx": "preserve",
+    // JSX를 React.createElement로 변환하지 않음
+    "noImplicitAny": true
+    // 암시적 any 타입을 피하기 위해 활성화
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "pages/_app.ts",
+    "pages/api/login.js",
+    "src/auth/login/userinfo/Userinfo.txs"
+, "src/components/organisms/InterviewOrganisms/InterviewAnswersWrongOrganisms/InterviewAnswersWrongOrganism.tsx", "src/setUpProxy.js"  ],
+  // 컴파일 대상 파일 설정
+  "exclude": ["node_modules"]
+  // 컴파일 제외 대상 파일 설정
+}

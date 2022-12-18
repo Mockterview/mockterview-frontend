@@ -1,0 +1,59 @@
+/* Regular */
+@font-face {
+  font-family: 'Pretendard400';
+  src: url('../public/assets/fonts/Pretendard400.woff2');
+}
+
+/* Medium */
+@font-face {
+  font-family: 'Pretendard500';
+  src: url('../public/assets/fonts/Pretendard500.woff2');
+}
+
+/* SemiBold */
+@font-face {
+  font-family: 'Pretendard600';
+  src: url('../public/assets/fonts/Pretendard600.woff2');
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Pretendard700';
+  src: url('../public/assets/fonts/Pretendard700.woff2');
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Pretendard400;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+  background-color: #f1f6fb;
+}
+
+.audio-player {
+  width: 572px;
+  /* height: 15rem; */
+}
+
+button {
+  background: transparent;
+  cursor: pointer;
+  user-select: none;
+}
+
+/* a {
+  user-select: none;
+} */
