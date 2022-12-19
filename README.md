@@ -1,5 +1,4 @@
 <img src="https://i.postimg.cc/d1WYrYNC/read-me.png" width="1000" />
-<br>
 
 <a href="https://www.mockterview.xyz">💻 Mockterview</a>
 =============
@@ -53,12 +52,6 @@ Mockterview는 CTO/Top-Tier 개발자들이 검수한 문제로 기술 인터뷰
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
 <br>
-</p>
-
-### **Design**
-<p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
 </p>
 
 ### **Tools**
