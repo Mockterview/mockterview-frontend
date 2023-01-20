@@ -65,9 +65,3 @@ Mockterview는 CTO/Top-Tier 개발자들이 검수한 문제로 기술 인터뷰
 <br>
 </p>
 
-* * *
-### 서비스 아키텍쳐
-<img src="https://camo.githubusercontent.com/99468d2324080566fd0670df58eb6a9ac858fd6e35a1f9b7fd7f287a6f262f3f/68747470733a2f2f692e706f7374696d672e63632f6b473768464a67632f6d6f636b746572766965772d3030312e6a7067">
-## 🔥 Challenges & Trouble Shooting
-- [Wiki 바로가기]
-
